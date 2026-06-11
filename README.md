@@ -1,7 +1,7 @@
 ## 👋 Hello there!
 
 My name is Ryan, and I'm a software developer located in Edmonton, Alberta, Canada.
-I have been working with computers all my life, from getting my first computer, a used Apple II Plus from my elementary school tech sale, to the present day, where I have my own home lab running virtual environments. I have always been fascinated by how computers work and how you can make them do cool things.
+I have been working with computers all my life, from getting my first computer, a used Apple II Plus from my elementary school tech sale, to the present day, where I have my own home lab running virtual environments. I have always been fascinated by how computers work and how you can make them do cool things. Recently, I have been developing a KVM solution to switch between work and home setups.
 
 I started my tech career in the telecommunications industry, installing and configuring cellular network equipment.
 I expanded my knowledge by earning a diploma in Programming from **[NAIT](https://nait.ca)** (My local tech college).
