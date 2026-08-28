@@ -12,15 +12,16 @@ Over the past couple of years, I've been working to diversify my tech stack with
 
 ## 🌱 I’m currently learning
 
-- **[Codecademy](https://codecademy.com/)**: Full-Stack Engineer (2025 - 2026) :white_check_mark:
-  - React, Express, Typescript/JavaScript
-  - Postgres SQL, Open API
-  - Unix CLI, GIT
+
 - **[Boot.dev](https://Boot.dev/)**: Back-end Developer Path (2025 - In progress)
   - Python, Go, C
   - Unix CLI, GIT
     <p align="left"><img height="200px" src="https://api.boot.dev/v1/users/public/614fe066-fb8a-4820-b5df-52f2691dde40/thumbnail" ></p>
     
+- **[Codecademy](https://codecademy.com/)**: Full-Stack Engineer (2025 - 2026) :white_check_mark:
+  - React, Express, Typescript/JavaScript
+  - Postgres SQL, Open API
+  - Unix CLI, GIT
 ## :stars: My goals for 2026 and beyond
 
   - Complete the Boot.dev: Back-end Developer Path by the end of 2026
