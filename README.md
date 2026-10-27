@@ -10,28 +10,32 @@ My work experience has mostly been with the Microsoft tech stack (WFP, WinForms,
 
 Over the past couple of years, I've been working to diversify my tech stack with the goal of opening up new employment opportunities while also having fun learning.
 
+## :stars: My goals for 2026 and beyond
+
+  - Complete the Boot.dev: Back-end Developer Path by the end of 2026
+  - Begin Handmade Hero project before the end of 2026
+  - Apply for programming jobs that utilize the technologies I have been learning
+
+    
 ## 🌱 I’m currently learning
 
+- **[Handmade Hero](https://mollyrocket.com/#handmade)**: (2026 - In progress)
+  - Building a 2D game from scratch in C / C++
 
 - **[Boot.dev](https://Boot.dev/)**: Back-end Developer Path (2025 - In progress)
   - Python, Go, C
   - Unix CLI, GIT
     <p align="left"><img height="200px" src="https://api.boot.dev/v1/users/public/614fe066-fb8a-4820-b5df-52f2691dde40/thumbnail" ></p>
     
+## ✅ Completed Learning
+
 - **[Codecademy](https://codecademy.com/)**: Full-Stack Engineer (2025 - 2026) :white_check_mark:
   - React, Express, Typescript/JavaScript
   - Postgres SQL, Open API
   - Unix CLI, GIT
-## :stars: My goals for 2026 and beyond
-
-  - Complete the Boot.dev: Back-end Developer Path by the end of 2026
-  - Begin Handmade Hero project before the end of 2026
-  - Expand my portfolio of projects with challenges from Codecrafters
-  - Apply for programming jobs that utilize the technologies I have been learning
 
 ## 📋Learning Backlog
-- **[Handmade Hero](https://mollyrocket.com/#handmade)**:
-  - Building a 2D game from scratch in C / C++
+
 - **[Crafting Interpreters](https://craftinginterpreters.com/)**:
   - Building a programming language
 - **[Computer Enhance](https://www.computerenhance.com/)**
