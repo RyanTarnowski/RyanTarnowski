@@ -12,8 +12,8 @@ Over the past couple of years, I've been working to diversify my tech stack with
 
 ## :stars: My goals for 2026 and beyond
 
-  - Complete the Boot.dev: Back-end Developer Path by the end of 2026
-  - Begin Handmade Hero project before the end of 2026
+  - Complete the Boot.dev: Back-end Developer Path by the end of 2026  :white_check_mark:
+  - Begin Handmade Hero project before the end of 2026 :white_check_mark:
   - Apply for programming jobs that utilize the technologies I have been learning
 
     
@@ -22,12 +22,16 @@ Over the past couple of years, I've been working to diversify my tech stack with
 - **[Handmade Hero](https://mollyrocket.com/#handmade)**: (2026 - In progress)
   - Building a 2D game from scratch in C / C++
 
-- **[Boot.dev](https://Boot.dev/)**: Back-end Developer Path (2025 - In progress)
-  - Python, Go, C
-  - Unix CLI, GIT
-    <p align="left"><img height="200px" src="https://api.boot.dev/v1/users/public/614fe066-fb8a-4820-b5df-52f2691dde40/thumbnail" ></p>
+- **[Boot.dev](https://Boot.dev/)**: Complete all available courses (2026 - In progress)
+  <p align="left"><img height="200px" src="https://api.boot.dev/v1/users/public/614fe066-fb8a-4820-b5df-52f2691dde40/thumbnail" ></p>
     
 ## ✅ Completed Learning
+- **[Boot.dev](https://Boot.dev/)**: Back-end Developer Path (2025 - 2026) :white_check_mark:
+  - Python, Go, C
+  - Unix CLI, GIT
+  <a href="https://www.boot.dev/certificates/2fd74632-6a56-42f4-91cb-89f8c337cffd">
+    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/2fd74632-6a56-42f4-91cb-89f8c337cffd.jpeg?v=1794576008" alt="Boot.dev Backend Developer Path certificate" width="400">
+  </a>
 
 - **[Codecademy](https://codecademy.com/)**: Full-Stack Engineer (2025 - 2026) :white_check_mark:
   - React, Express, Typescript/JavaScript
