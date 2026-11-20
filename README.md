@@ -27,23 +27,23 @@ Over the past couple of years, I've been working to diversify my tech stack with
     
 ## ✅ Completed Learning
 - **[Boot.dev](https://Boot.dev/)**: Back-end Developer Path (2025 - 2026) :white_check_mark:
-  - Python, Go, C
-  - Unix CLI, GIT
+  - Python, Go, C, Typescript/JavaScript, SQL
+  - Unix CLI, GIT, AWS, Docker, Kubernetes, LLM
   <a href="https://www.boot.dev/certificates/2fd74632-6a56-42f4-91cb-89f8c337cffd">
     <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/2fd74632-6a56-42f4-91cb-89f8c337cffd.jpeg?v=1794576008" alt="Boot.dev Backend Developer Path certificate" width="400">
   </a>
 
 - **[Codecademy](https://codecademy.com/)**: Full-Stack Engineer (2025 - 2026) :white_check_mark:
-  - React, Express, Typescript/JavaScript
-  - Postgres SQL, Open API
+  - React, Express, Typescript/JavaScript, PostgreSQL, Open API
   - Unix CLI, GIT
-
+    
 ## 📋Learning Backlog
-
-- **[Crafting Interpreters](https://craftinginterpreters.com/)**:
-  - Building a programming language
+- **[Low Level Academy](https://lowlevel.academy/)**:
+  - Low-level programming in C and Rust
 - **[Computer Enhance](https://www.computerenhance.com/)**
   - Performance-Aware Programming Series
+- **[Crafting Interpreters](https://craftinginterpreters.com/)**:
+  - Building a programming language
 - **[Neetcode](https://neetcode.io/)**:
   - Data structures and algorithms
   - Systems Design
@@ -52,8 +52,6 @@ Over the past couple of years, I've been working to diversify my tech stack with
   - Project challenges in various languages
 - **[LeetCode](https://leetcode.com)**: 75 Essential / Trending interview problems
   - Tech interview prep
-- **[Low Level Academy](https://lowlevel.academy/)**:
-  - Low-level programming in C and Rust
 
 
 <!--
